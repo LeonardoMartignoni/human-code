@@ -20,7 +20,7 @@
 - prendo la pizza
 
 - **SE NON** ho pagato online
-- pago il rider in contanti
+    - pago il rider in contanti
 
 
 - torno in casa
